@@ -562,3 +562,11 @@ section { padding: var(--space-4xl) var(--space-2xl); }
 .kuma-gallery {
     grid-template-columns: repeat(2, 1fr);
 }
+/* Certificates button */
+.certificates-btn {
+    margin-top: var(--space-lg);
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 0.9rem;
+}
